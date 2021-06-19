@@ -22,4 +22,10 @@ public class main {
             }
         }
     }
+
+    public static void reverse(Node n1){
+        while(n1.next != null){
+
+        }
+    }
 }
